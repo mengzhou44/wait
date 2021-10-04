@@ -1,0 +1,11 @@
+{
+  "name": "@mengzhou44/wait",
+  "version": "1.0.0",
+  "description": "a promise to waite sepecfied seconds before  executing.... ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
